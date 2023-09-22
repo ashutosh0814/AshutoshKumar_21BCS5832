@@ -4,11 +4,11 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Tourly - Travel website</h2>
+  <h2 align="center">originTrails</h2>
 
-  Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  originTrails is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/tourly/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ashutosh-kumar-21-bcs-5832.vercel.app/#"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -16,7 +16,19 @@
 
 ### Demo Screeshots
 
-![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![originTrails Desktop Demo](./readme-images/img1.png "Desktop Demo")
+
+# Discover popular destinations
+![originTrails Desktop Demo](./readme-images/img2.png "Desktop Demo")
+
+# Packagages
+![originTrails Desktop Demo](./readme-images/img3.png "Desktop Demo")
+
+# Photos from travellers
+![originTrails Desktop Demo](./readme-images/img4.png "Desktop Demo")
+
+# Mobile view [Responsive-Ness]
+![originTrails Desktop Demo](./readme-images/img6.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -26,24 +38,24 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Tourly** locally, run this command on your git bash:
+To run **OriginTrails** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/tourly.git
+sudo git https://github.com/ashutosh0814/AshutoshKumar_21BCS5832.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/tourly.git
+git clone https://github.com/ashutosh0814/AshutoshKumar_21BCS5832.git
 ```
+
+Just run the **index.html** file on live server to view 
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [LinkedIn](https://www.linkedin.com/in/ashutosh-srivastava-573227206).
 
-### License
 
-This project is **free to use** and does not contains any license.
